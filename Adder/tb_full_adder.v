@@ -1,3 +1,4 @@
+`timescale 1ns/1ns
 module tb_full_adder;
   reg a,b,cin;
   wire sum,cout;
