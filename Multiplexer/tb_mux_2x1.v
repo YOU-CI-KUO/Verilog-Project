@@ -4,7 +4,7 @@ module tb_mux();
   reg [7:0]A, B, Y;
   reg SEL;
   
-  mux_2x1 mux(
+  mux_2x1 mux1(
     .Y(Y),
     .A(A), 
     .B(B),
