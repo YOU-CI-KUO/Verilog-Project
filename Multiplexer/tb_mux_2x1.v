@@ -1,6 +1,6 @@
 `timescale 1ns/1ns
 
-module tb_mux_2x1();
+module tb_mux();
   reg [7:0]A, B, Y;
   reg SEL;
   
