@@ -1,4 +1,4 @@
-module mux_2x1(               
+module mux_2x1(     // 8-bits             
   input [7:0]A, B, 
   input SEL,
   output reg [7:0]Y
