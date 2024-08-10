@@ -1,4 +1,4 @@
-module D_FlipFlop_SyncReset(
+module D_FlipFlop_SyncReset(  //同步
 	input D,
 	input clk,  
 	input reset,  
